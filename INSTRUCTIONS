@@ -6,7 +6,8 @@ Installation Instructions
 
 2. Import the project into Xcode  
 -  Open Xcode. Press the bottom right "open another project" button. 
--  Select the project name from the "Desktop" tab listing. DO NOT OPEN THE PROJECT. The project will be named "Coles-FBLA-Knowledge-Quiz" unless the name was changed.
+-  Select the project name from the "Desktop" tab listing. DO NOT OPEN THE PROJECT. 
+-  The project will be named "Coles-FBLA-Knowledge-Quiz" unless the name was changed.
 -  Once selected, the project will show the inner parts in the middle column. Select and open the "Quiz App for FBLA 2" folder.
 
 3. Run the simulator  
